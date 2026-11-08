@@ -1,0 +1,8 @@
+{
+  "name": "NexusAI - Hệ Thống Trí Tuệ Nhân Tạo Toàn Diện",
+  "description": "Hệ thống AI đa năng tích hợp Gemini 3.8 Flash: Trò chuyện thông minh, phân tích tài liệu, thị giác máy tính, lập trình tự động, và chuỗi quy trình AI Agent.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

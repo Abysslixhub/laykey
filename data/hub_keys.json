@@ -1,0 +1,41 @@
+[
+  {
+    "id": "k_df823210bca2",
+    "key": "ABYSS-PL5PS-KTESR-WHBA",
+    "hubName": "Abysslix Hub",
+    "hwid": "ALL_EXECUTORS",
+    "tier": "free_24h",
+    "tierName": "Key 24 Giờ (Free)",
+    "durationHours": 24,
+    "status": "active",
+    "createdAt": "2026-11-08T08:28:53.059Z",
+    "expiresAt": "2026-11-09T08:28:53.059Z",
+    "ipAddress": "::ffff:127.0.0.1",
+    "lastCheckedAt": "2026-11-08T08:28:58.795Z"
+  },
+  {
+    "id": "k_881c17c37151",
+    "key": "ABYSS-DHUKM-YJTD3-EXBT",
+    "hubName": "Abysslix Hub",
+    "hwid": "ALL_EXECUTORS",
+    "tier": "free_24h",
+    "tierName": "Key 24 Giờ (Free)",
+    "durationHours": 24,
+    "status": "active",
+    "createdAt": "2026-11-08T08:22:42.450Z",
+    "expiresAt": "2026-11-09T08:22:42.450Z",
+    "ipAddress": "::ffff:127.0.0.1"
+  },
+  {
+    "id": "k_3423520f",
+    "key": "ABYSS-VIP99-GOD77-GOLD",
+    "hubName": "Abysslix Hub VIP",
+    "hwid": "ALL_EXECUTORS",
+    "tier": "lifetime_vip",
+    "tierName": "VIP Trọn Đời",
+    "durationHours": -1,
+    "status": "active",
+    "createdAt": "2026-11-08T08:22:37.814Z",
+    "expiresAt": "never"
+  }
+]

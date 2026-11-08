@@ -1,0 +1,25 @@
+[
+  {
+    "id": "k_8e43e97bf671",
+    "key": "nx_live_bb96ade0d80c8cfa845d537cce91c8f7",
+    "name": "Flutter Mobile App",
+    "tier": "starter",
+    "totalQuota": 100,
+    "usedQuota": 2,
+    "status": "active",
+    "createdAt": "2026-11-08T08:06:06.971Z",
+    "expiresAt": "2026-12-08T08:06:06.970Z",
+    "lastUsedAt": "2026-11-08T08:06:15.611Z"
+  },
+  {
+    "id": "k_starter_demo",
+    "key": "nx_live_b8db6424c333a64f7c8b6dce637bfdb7",
+    "name": "Demo App Client Key",
+    "tier": "starter",
+    "totalQuota": 100,
+    "usedQuota": 2,
+    "status": "active",
+    "createdAt": "2026-11-08T08:05:57.865Z",
+    "expiresAt": "2026-12-08T08:05:57.866Z"
+  }
+]

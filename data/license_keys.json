@@ -1,0 +1,70 @@
+[
+  {
+    "id": "lic_4fe005c3bea0",
+    "licenseKey": "APP-X7DK-M8W6-Q6LQ",
+    "plan": "trial_24h",
+    "planName": "Dùng Thử 24 Giờ",
+    "durationDays": 1,
+    "maxDevices": 1,
+    "activatedDevices": [
+      {
+        "deviceId": "iphone_hwid_101",
+        "deviceName": "iPhone 15 Pro",
+        "activatedAt": "2026-11-08T08:17:01.172Z",
+        "lastPingAt": "2026-11-08T08:17:17.541Z"
+      }
+    ],
+    "status": "activated",
+    "createdAt": "2026-11-08T08:16:53.488Z",
+    "expiresAt": "2026-11-09T08:17:01.172Z",
+    "note": "Người dùng tạo ngẫu nhiên lúc 08:16:53",
+    "activatedAt": "2026-11-08T08:17:01.172Z"
+  },
+  {
+    "id": "lic_e3797d33",
+    "licenseKey": "VIP-7F92-K4M9-8821",
+    "plan": "vip_pro",
+    "planName": "Gói VIP Pro 90 Ngày",
+    "durationDays": 90,
+    "maxDevices": 2,
+    "activatedDevices": [
+      {
+        "deviceId": "iphone_15_pro_uuid_8912",
+        "deviceName": "iPhone 15 Pro Max",
+        "activatedAt": "2026-11-05T08:16:48.765Z",
+        "lastPingAt": "2026-11-08T08:16:48.766Z"
+      }
+    ],
+    "status": "activated",
+    "createdAt": "2026-11-03T08:16:48.766Z",
+    "activatedAt": "2026-11-05T08:16:48.766Z",
+    "expiresAt": "2027-02-03T08:16:48.766Z",
+    "note": "Key cấp mẫu cho tester"
+  },
+  {
+    "id": "lic_ab7d9fe8",
+    "licenseKey": "APP-FREE-9A2B-C4D8",
+    "plan": "trial_24h",
+    "planName": "Dùng Thử 24 Giờ",
+    "durationDays": 1,
+    "maxDevices": 1,
+    "activatedDevices": [],
+    "status": "unused",
+    "createdAt": "2026-11-08T08:16:48.766Z",
+    "expiresAt": "never",
+    "note": "Key dùng thử chưa kích hoạt"
+  },
+  {
+    "id": "lic_2b027d80",
+    "licenseKey": "LIFE-GOLD-8899-AAAA",
+    "plan": "lifetime",
+    "planName": "Bản Quyền Vĩnh Viễn (Lifetime)",
+    "durationDays": -1,
+    "maxDevices": 5,
+    "activatedDevices": [],
+    "status": "unused",
+    "createdAt": "2026-11-08T08:16:48.766Z",
+    "expiresAt": "never",
+    "note": "Key bản quyền trọn đời"
+  }
+]
